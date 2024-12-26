@@ -1,2 +1,3 @@
 venv
-contatos_whatsapp.xlsx
+*.xlsx
+log.txt
